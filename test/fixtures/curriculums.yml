@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profesor_id: 
+  fechaNacimiento: MyString
+  rfc: MyString
+  areaEspecializacion: MyText
+  formacionUltimoGrado: MyText
+  formacionCursoActualizacion: MyText
+  experienciaDocente: MyText
+  cargosAcademicos: MyText
+  revisorOtros: MyText
+  publicaciones: MyText
+  ponenciasConferenciasCongresos: MyText
+  formacionRecursosHumanos: MyText
+  cursosImpartidos: MyText
+  experienciaEntidadAcademica: MyString
+  experienciaAreaCurso: MyText
+  reconocimientos: MyText
+
+two:
+  profesor_id: 
+  fechaNacimiento: MyString
+  rfc: MyString
+  areaEspecializacion: MyText
+  formacionUltimoGrado: MyText
+  formacionCursoActualizacion: MyText
+  experienciaDocente: MyText
+  cargosAcademicos: MyText
+  revisorOtros: MyText
+  publicaciones: MyText
+  ponenciasConferenciasCongresos: MyText
+  formacionRecursosHumanos: MyText
+  cursosImpartidos: MyText
+  experienciaEntidadAcademica: MyString
+  experienciaAreaCurso: MyText
+  reconocimientos: MyText

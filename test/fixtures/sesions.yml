@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  curso_id: 
+  numeroHorasSesion: 1
+  totalHoras: 1
+
+two:
+  curso_id: 
+  numeroHorasSesion: 1
+  totalHoras: 1

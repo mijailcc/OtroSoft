@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  curso_id: 
+  tema: MyText
+  numeroHoras: 1
+  ponente: MyText
+  fechas: MyString
+  subtemas: MyText
+
+two:
+  curso_id: 
+  tema: MyText
+  numeroHoras: 1
+  ponente: MyText
+  fechas: MyString
+  subtemas: MyText

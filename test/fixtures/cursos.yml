@@ -1,0 +1,57 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profesor_id: 
+  tipo: MyString
+  modalidad: MyString
+  fechas: MyString
+  diasHorario: MyString
+  numeroSesiones: 1
+  numeroHoras: 1
+  minInscritos: 1
+  maxInscritos: 1
+  costoPublicoGeneral: 1.5
+  costoUNAM: 1.5
+  pagoPropuestoDocentes: 1.5
+  materialApoyo: MyText
+  equipoComputo: MyText
+  materialRequeridoAlumnos: MyText
+  materialApoyoAlumnos: MyText
+  descripcionCurso: MyText
+  objetivosGeneral: MyText
+  objetivosEspecifico: MyText
+  metas: MyText
+  dirigidoA: MyText
+  procesoEvaluacion: MyText
+  requisitosIngreso: MyText
+  requisitosPermanencia: MyText
+  requisitosEgreso: MyText
+  bibliografia: MyText
+
+two:
+  profesor_id: 
+  tipo: MyString
+  modalidad: MyString
+  fechas: MyString
+  diasHorario: MyString
+  numeroSesiones: 1
+  numeroHoras: 1
+  minInscritos: 1
+  maxInscritos: 1
+  costoPublicoGeneral: 1.5
+  costoUNAM: 1.5
+  pagoPropuestoDocentes: 1.5
+  materialApoyo: MyText
+  equipoComputo: MyText
+  materialRequeridoAlumnos: MyText
+  materialApoyoAlumnos: MyText
+  descripcionCurso: MyText
+  objetivosGeneral: MyText
+  objetivosEspecifico: MyText
+  metas: MyText
+  dirigidoA: MyText
+  procesoEvaluacion: MyText
+  requisitosIngreso: MyText
+  requisitosPermanencia: MyText
+  requisitosEgreso: MyText
+  bibliografia: MyText
